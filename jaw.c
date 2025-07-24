@@ -7,4 +7,5 @@ int main(){
     printf("%d",2*x);
     char a[100]="jawahar";
     printf("\n %s",a);
+    
 }
